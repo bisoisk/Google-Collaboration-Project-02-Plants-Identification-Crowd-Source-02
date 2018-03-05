@@ -1,5 +1,5 @@
 
-# Google-Collaboration-Project-02-PlantsCroudsource/Digital Library of local plants
+# Google-Collaboration-Project-02-Plants-Identification-Crowdsource/Digital Library of local plants
 
 This crowd sourced plant recognition website/mobile will allow users to upload a photo of any plant they find in their, while the team from the GOVT OF INDIA or local agriculture community try to correctly recognize it.
 
