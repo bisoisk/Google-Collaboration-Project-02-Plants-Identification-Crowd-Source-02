@@ -1,5 +1,3 @@
-# Google-Collaboration-Project-02-Plants-Identification-Crowd-Source-02
-
 
 # Google-Collaboration-Project-02-PlantsCroudsource/Digital Library of local plants
 
